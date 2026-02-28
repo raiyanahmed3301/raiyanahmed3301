@@ -21,10 +21,10 @@
 # 👨‍🚀 NAME
 
 ```yaml
-Name: YOUR NAME
+Name: A Raiyan Ahmed
 Alias: Orbital Cipher
-Codename: CYBER-01
-Status: Online 🟢
+Codename: gh0st-33o1
+Status: Offline 🟢
 ```
 
 ---
@@ -36,7 +36,7 @@ Status: Online 🟢
 + Aerospace Technology Developer
 + Systems Engineer
 + Futuristic Software Architect
-```
+```x`
 
 ---
 
