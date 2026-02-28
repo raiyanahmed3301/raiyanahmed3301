@@ -36,7 +36,7 @@ Status: Offline 🟢
 + Aerospace Technology Developer
 + Systems Engineer
 + Futuristic Software Architect
-```x`
+```
 
 ---
 
