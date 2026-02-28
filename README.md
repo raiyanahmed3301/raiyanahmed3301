@@ -76,7 +76,7 @@ Active Missions:
 # ⚙️ THINGS THAT I AM DOING WITH (TOOLS)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,linux,docker,git,bash,react,nodejs,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,python,c,docker,git,bash,mysql,nodejs,postgres&theme=dark" />
 </p>
 
 ```yaml
