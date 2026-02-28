@@ -146,7 +146,7 @@ Aerospace & Simulation:
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/raiyanahmed3301/.github/workflows/snake.yml" />
+<img src="https://raw.githubusercontent.com/raiyanahmed3301/raiyanahmed3301/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
