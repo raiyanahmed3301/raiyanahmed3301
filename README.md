@@ -115,12 +115,12 @@ Aerospace & Simulation:
 # 🚀 LATEST REPOSITORIES
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/raiyanahmed3301?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raiyanahmed3301&repo=YOUR_REPO1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/raiyanahmed3301?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raiyanahmed3301&repo=YOUR_REPO2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 </p>
 
@@ -138,7 +138,7 @@ Aerospace & Simulation:
 # 🛰️ ACTIVITY RADAR
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raiyanahmed3301&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
