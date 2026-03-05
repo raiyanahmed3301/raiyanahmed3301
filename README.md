@@ -109,30 +109,6 @@ Aerospace & Simulation:
 + Simulation & Aerospace Concepts
 + Systems Programming & Architecture
 ```
-
----
-
-# 🚀 LATEST REPOSITORIES
-
-<p align="center">
-<a href="https://github.com/raiyanahmed3301?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raiyanahmed3301&repo=YOUR_REPO1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/raiyanahmed3301?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raiyanahmed3301&repo=YOUR_REPO2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-</p>
-
----
-
-# 📡 SYSTEM TELEMETRY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raiyanahmed3301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raiyanahmed3301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-</p>
-
 ---
 
 # 🛰️ ACTIVITY RADAR
